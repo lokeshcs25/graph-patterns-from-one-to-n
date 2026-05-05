@@ -1278,7 +1278,7 @@ Do you need BRIDGES, ARTICULATION POINTS, or SCCs?
 -  [Binary Search Patterns](https://github.com/lokeshcs25/Binary-Search-Patterns-From-One-to-N)
 -  [Bit Manipulation Patterns](https://github.com/lokeshcs25/Bit-Manipulation-Patterns-From-One-to-N)
 -  [Greedy Algorithm Patterns](https://github.com/lokeshcs25/Greedy-Patterns-From-One-to-N)
--  [Graph Algorithm Patterns](https://github.com/lokeshcs25/Graph-Patterns-From-One-to-N/tree/main)
+-  **Graph Algorithm Patterns** - *you're here*
 -   Tree Traversal Patterns — *Coming soon*
 -   Dynamic Programming Patterns — *Coming soon*
 
